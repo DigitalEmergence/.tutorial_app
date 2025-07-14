@@ -1,6 +1,6 @@
 {
 	"packages": {
-		"test123": {
+		"tutorial_app": {
 			"alias": "main"
 		}
 	},
