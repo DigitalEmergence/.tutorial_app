@@ -1,0 +1,21 @@
+{
+	"packages": {
+		"test123": {
+			"alias": "main"
+		}
+	},
+	"routes": [
+		{
+			"route": "/api/datetime",
+			"path": "/test123/server/datetime.ts"
+		},
+		{
+			"route": "/*",
+			"path": "/test123/server/index.ts"
+		}
+	],
+	"extensions": {},
+	"directives": [],
+	"settings": {},
+	"featureFlags": []
+}
